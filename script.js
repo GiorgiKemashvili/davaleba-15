@@ -45,3 +45,7 @@ console.log(sum);
 function isOdd(number) {
     return number % 2 !== 0;
 }
+// 7. davaleba-7
+function toLowerCase(string) {
+    return string.toLowerCase();
+}

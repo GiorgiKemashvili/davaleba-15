@@ -41,3 +41,7 @@ for (let i = 0; i < sumArray.length; i++) {
     sum += sumArray[i];
 }
 console.log(sum);
+// 6. davaleba-6
+function isOdd(number) {
+    return number % 2 !== 0;
+}

@@ -49,3 +49,7 @@ function isOdd(number) {
 function toLowerCase(string) {
     return string.toLowerCase();
 }
+// 8. davaleba-8
+function filterEvenNumbers(numbers) {
+    return numbers.filter(number => number % 2 === 0);
+}

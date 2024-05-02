@@ -29,3 +29,8 @@ console.log(namesArray);
 
 namesArray[1] = 'Grace';
 console.log(namesArray);
+// 4. davaleba-4
+let newArray = [];
+for (let i = 1; i <= 10000; i++) {
+    newArray.push(i * i);
+}

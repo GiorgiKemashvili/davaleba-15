@@ -34,3 +34,10 @@ let newArray = [];
 for (let i = 1; i <= 10000; i++) {
     newArray.push(i * i);
 }
+// 5. davaleba-5
+let sumArray = [1, 2, 3, 4, 5];
+let sum = 0;
+for (let i = 0; i < sumArray.length; i++) {
+    sum += sumArray[i];
+}
+console.log(sum);
